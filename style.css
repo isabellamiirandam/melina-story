@@ -26,3 +26,12 @@ p {
 span{
   color: #d16cc1;
 }
+
+.img-right {
+  margin-left: 500px;
+}
+
+.img-left {
+  margin-right: 500px;
+}
+
