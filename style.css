@@ -1,0 +1,28 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  
+}
+
+h1 {
+  font-family: 'Caveat', cursiva;
+  color: #d16cc1;
+  font-size: 50px;
+}
+
+h2{
+  color: #8c8888;
+  font-size:20px ;
+}
+
+p {
+  font-size: 15px;
+  color: #3d3b3b;
+  margin-left: 344px;
+  margin-right: 344px;
+  text-align: justify;
+}
+
+span{
+  color: #d16cc1;
+}
