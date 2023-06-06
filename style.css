@@ -4,18 +4,18 @@ body {
   
 }
 
-h1 {
+.main-title {
   font-family: 'Caveat', cursiva;
   color: #d16cc1;
   font-size: 50px;
 }
 
-h2{
+.chapter {
   color: #8c8888;
-  font-size:20px ;
+  font-size:20px;
 }
 
-p {
+.text {
   font-size: 15px;
   color: #3d3b3b;
   margin-left: 344px;
@@ -23,7 +23,7 @@ p {
   text-align: justify;
 }
 
-span{
+.accent {
   color: #d16cc1;
 }
 
