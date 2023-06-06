@@ -1,18 +1,17 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   text-align: center;
-  
 }
 
 .main-title {
-  font-family: 'Caveat', cursiva;
+  font-family: "Caveat", cursiva;
   color: #d16cc1;
   font-size: 50px;
 }
 
 .chapter {
   color: #8c8888;
-  font-size:20px;
+  font-size: 20px;
 }
 
 .text {
@@ -34,4 +33,3 @@ body {
 .img-left {
   margin-right: 500px;
 }
-
