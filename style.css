@@ -19,6 +19,11 @@ body {
   max-width: 800px;
 }
 
+.header-image {
+  width: 100%;
+  max-width: 400px;
+}
+
 .main-title {
   font-family: "Caveat", cursiva;
   color: #d16cc1;
