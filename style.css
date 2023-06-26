@@ -76,3 +76,9 @@ body {
     transform: translateY(0);
   }
 }
+
+@media (max-width: 768px) {
+  .page-inner {
+    margin: 2rem;
+  }
+}
