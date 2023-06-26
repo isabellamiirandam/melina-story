@@ -35,6 +35,10 @@ body {
   font-size: 20px;
 }
 
+.chapter:hover {
+  transform: scale(1.1);
+}
+
 .text {
   font-size: 15px;
   color: #3d3b3b;
