@@ -62,7 +62,8 @@ body {
 
 .header {
   animation-name: topdown;
-  animation-duration: 700ms;
+  animation-duration: 1.5s;
+  animation-delay: 200ms;
 }
 
 @keyframes topdown {
